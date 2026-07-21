@@ -1,0 +1,241 @@
+<header>
+    <h1 style="font-size:50px; color:#ffffff;">Wellson Rawal</h1>
+    <h2>Class 10 Presentation</h2>
+    <h3>Classification of Living Beings and Kingdom Plantae</h3>
+    <p>A Biology Educational Website</p>
+</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Classification of Living Beings & Kingdom Plantae</title>
+
+<style>
+body{
+    font-family:Arial, sans-serif;
+    margin:0;
+    background:#eaf7ea;
+    color:#333;
+    line-height:1.7;
+}
+header{
+    background:#2e8b57;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+nav{
+    background:#145a32;
+    padding:15px;
+    text-align:center;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+section{
+    width:85%;
+    margin:20px auto;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.15);
+}
+h2{
+    color:#2e8b57;
+    border-bottom:3px solid #2e8b57;
+    padding-bottom:8px;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+table,th,td{
+    border:1px solid #999;
+}
+th{
+    background:#2e8b57;
+    color:white;
+}
+th,td{
+    padding:12px;
+    text-align:left;
+}
+ul li{
+    margin:10px 0;
+}
+footer{
+    background:#145a32;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:20px;
+}
+.highlight{
+    background:#d4edda;
+    padding:15px;
+    border-left:6px solid green;
+    margin:20px 0;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>Classification of Living Beings</h1>
+<p>Biology Study Notes | Kingdom Plantae</p>
+</header>
+
+<nav>
+<a href="#classification">Classification</a>
+<a href="#fivekingdom">Five Kingdoms</a>
+<a href="#plantae">Kingdom Plantae</a>
+<a href="#characteristics">Characteristics</a>
+</nav>
+
+<section id="classification">
+
+<h2>What is Classification?</h2>
+
+<p>
+Classification is the scientific process of arranging living organisms
+into different groups according to their similarities and differences.
+It helps scientists identify organisms easily and understand their
+relationships and evolution.
+</p>
+
+<div class="highlight">
+<b>Importance of Classification</b>
+<ul>
+<li>Helps identify organisms correctly.</li>
+<li>Makes the study of biology easier.</li>
+<li>Shows evolutionary relationships.</li>
+<li>Avoids confusion caused by local names.</li>
+<li>Provides a universal system for scientists.</li>
+</ul>
+</div>
+
+</section>
+
+<section id="fivekingdom">
+
+<h2>Five Kingdom Classification</h2>
+
+<table>
+
+<tr>
+<th>Kingdom</th>
+<th>Main Features</th>
+</tr>
+
+<tr>
+<td>Monera</td>
+<td>Single-celled organisms without a true nucleus.</td>
+</tr>
+
+<tr>
+<td>Protista</td>
+<td>Mostly unicellular organisms with a true nucleus.</td>
+</tr>
+
+<tr>
+<td>Fungi</td>
+<td>Non-green organisms that absorb nutrients from other materials.</td>
+</tr>
+
+<tr>
+<td>Plantae</td>
+<td>Green multicellular organisms capable of photosynthesis.</td>
+</tr>
+
+<tr>
+<td>Animalia</td>
+<td>Multicellular organisms that cannot prepare their own food.</td>
+</tr>
+
+</table>
+
+</section>
+
+<section id="plantae">
+
+<h2>Kingdom Plantae</h2>
+
+<p>
+Kingdom Plantae includes all green plants ranging from tiny mosses to
+large flowering trees. Plants contain chlorophyll, which enables them
+to make food through photosynthesis using sunlight, water, and carbon
+dioxide.
+</p>
+
+<p>
+Plants are essential for life because they produce oxygen, provide food,
+medicine, timber, paper, fibers, and maintain ecological balance.
+</p>
+
+</section>
+
+<section id="characteristics">
+
+<h2>Characteristics of Kingdom Plantae</h2>
+
+<ul>
+<li>Plants are multicellular organisms.</li>
+<li>Cells have a true nucleus.</li>
+<li>Cell walls are made of cellulose.</li>
+<li>Plants contain chloroplasts with chlorophyll.</li>
+<li>They prepare food by photosynthesis.</li>
+<li>They are autotrophic in nutrition.</li>
+<li>Food is stored mainly as starch.</li>
+<li>Most plants are fixed in one place.</li>
+<li>They reproduce by seeds, spores, or vegetative methods.</li>
+<li>Most plants have roots, stems, and leaves.</li>
+<li>Plants require sunlight, water, carbon dioxide, and minerals for growth.</li>
+<li>They play an important role in maintaining oxygen and carbon dioxide balance.</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Importance of Plants</h2>
+
+<ul>
+<li>Produce oxygen for living organisms.</li>
+<li>Provide food for humans and animals.</li>
+<li>Prevent soil erosion.</li>
+<li>Supply medicines.</li>
+<li>Provide wood, paper, rubber, cotton, and fibers.</li>
+<li>Help regulate climate.</li>
+<li>Provide habitat for many animals.</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Conclusion</h2>
+
+<p>
+The classification of living beings helps scientists organize and study
+the enormous variety of organisms found on Earth. Kingdom Plantae is one
+of the five kingdoms and consists of green, multicellular, autotrophic
+organisms. Plants are indispensable because they provide food, oxygen,
+shelter, medicines, and numerous resources while maintaining ecological
+balance on our planet.
+</p>
+
+</section>
+
+<footer>
+<h3>Biology Notes</h3>
+<p>Classification of Living Beings &copy; 2026</p>
+</footer>
+
+</body>
+</html>
